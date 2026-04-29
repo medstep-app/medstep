@@ -25,3 +25,5 @@ When we update the privacy policy, we will revise this page within the applicati
 
 ## Contact
 Questions regarding privacy can be directed to the application developer through the contact information listed in the Google Play Store.
+
+Last updated: April 30, 2026
