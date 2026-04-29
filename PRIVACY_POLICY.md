@@ -1,4 +1,4 @@
-# Privacy Policy
+# MedStep - Privacy Policy
 
 MedStep is an offline educational application. We do not collect personal data. This document explains what happens with information on your device and which third parties are involved.
 
